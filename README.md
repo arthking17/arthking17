@@ -20,7 +20,7 @@
 - ⚡ Fun fact **!not found 🪲**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://dev.to/wi11i4m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wi11i4m" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/william ngassa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william ngassa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16390704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16390704" height="30" width="40" /></a>
