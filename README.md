@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthking17&theme=dracula&column=5&margin-w=15&margin-h=15" alt="arthking17" /></a> </p>
 
-- 🔭 I’m currently working on **my PFE in DevOps**
+- 🔭 I’m currently working on **APIs and DevOps at PIT and AG2R La Mondiale**
 
 - 🌱 I’m currently learning **Azure DevOps**
 
