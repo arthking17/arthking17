@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web development Project**
 
-- 💬 Ask me about **Ansible, Docker, Linux, Java, Git, Gitlab-ci, PHP**
+- 💬 Ask me about **Ansible, Docker, Linux, Java, Git, Gitlab-ci, SpringBoot, API, Event-streaming**
 
 - 📫 How to reach me **nguesseuarthur17@gmail.com**
 
