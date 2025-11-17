@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arthur Wi11i4m😎</h1>
-<h3 align="center">A passionate Software Engineer who love DevOps😍</h3>
+<h3 align="center">A passionate Software Engineer who love Coding😍</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthking17&theme=dracula&column=5&margin-w=15&margin-h=15" alt="arthking17" /></a> </p>
 
 - 🔭 I’m currently working on **APIs and DevOps at PIT and AG2R La Mondiale**
 
-- 🌱 I’m currently learning **Azure DevOps**
+- 🌱 I’m currently learning **GCP Develop Solutions & Microsoft Azure DevOps**
 
 - 👯 I’m looking to collaborate on **Web development Project**
 
-- 💬 Ask me about **Ansible, Docker, Linux, Java, Git, Gitlab-ci, SpringBoot, API, Event-streaming**
+- 💬 Ask me about **Linux, Docker, Java, SpringBoot, Git, API, Kafka, Kubernetes**
 
 - 📫 How to reach me **nguesseuarthur17@gmail.com**
 
